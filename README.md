@@ -8,10 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=C-12-14)
 
 <p align=center>
-  
-  ![C-12-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-12-14&count_private=true&show_icons=true&theme=github_dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=C-12-14&count_private=true&show_icons=true&theme=github_dark" alt="C-12-14's Github Stats">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=C-12-14&theme=github-dark-blue)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=C-12-14&theme=github-dark-blue" alt="Streak Stats">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-12-14&layout=compact&theme=github_dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-12-14&layout=compact&theme=github_dark" alt="Top Languages">
 </p>

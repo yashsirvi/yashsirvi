@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 Undergraduate student at IIT Kharagpur
-- 🌱 I’m currently learning Algorithms and Machine Learning
+- 🌱 I’m currently learning Deep Learning and Reinforcement Learning
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: yashseervikk2@gmail.com
 - 😄 Pronouns: he/him

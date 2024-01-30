@@ -13,5 +13,5 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=C-12-14&theme=github-dark-blue" alt="Streak Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-12-14&layout=compact&theme=github_dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-12-14&layout=compact&theme=github_dark&hide=makefile,cmake,jupyter%20notebook" alt="Top Languages">
 </p>
